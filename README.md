@@ -1,6 +1,6 @@
-### Olá, eu sou o Ezequiel Marques 👋
+### Olá, eu sou Ezequiel Marques 👋
 
-[![Ezequiel Marques GitHub stats](https://github-readme-stats.vercel.app/api?username=Ezequiel-Marques)](https://github.com/anuraghazra/github-readme-stats/dracula)
+![Ezequiel GitHub stats](https://github-readme-stats.vercel.app/api?username=Ezequiel-Marques&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ezequiel-Marques)](https://github.com/anuraghazra/github-readme-stats)
 
