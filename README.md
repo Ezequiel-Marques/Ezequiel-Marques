@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Contatos:
+<div>
+<a href = "mailto:ezequielmarquesdeoliveira20@hotmail.com"><img src="https://img.shields.io/badge/outlook-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/ezequiel-marques-b6923026b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
 <div>
 <a href="https://github.com/Ezequiel-Marques">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ezequiel-Marques&layout=compact&langs_count=7&theme=dracula"/>
