@@ -1,5 +1,5 @@
 # 👋 Hello! Welcome to my Github profile.
-# My name is Ezequiel Marques!
+<h3>My name is Ezequiel Marques!</h3>
 
 ## Contatos:
 <div>
